@@ -182,3 +182,14 @@ h3 {
     font-family: 'Courier New', Courier, monospace;
     color: #FF5959;
 }
+.help {
+    text-align: center;
+}
+.button-donation{
+    background-color: tomato;
+        color: white;
+        text-decoration: none;
+        padding: 10px 40px;
+        border-radius: 5px;
+        text-align: center;
+}
