@@ -16,7 +16,7 @@ h2 {
 }
 
 .hero-section {
-    background-image: url(images/donation9.jpg);
+    background-image: url(images/donation3333.jpg.jpg);
     box-shadow: inset 0 0 0 2000px rgba(5, 5, 5, 0.74);
     background-repeat: no-repeat;
     background-position: center;
@@ -172,7 +172,7 @@ input[type=button] {
 .final-section {
     text-align: center;
     color: white;
-    background-color: gray;
+    background-color: black;
     padding: 30px;
     font-size: 15px;
 }
