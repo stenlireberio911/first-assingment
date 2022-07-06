@@ -1,0 +1,184 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.hero-section p {
+    font-weight: 100;
+    padding-bottom: 30px;
+}
+
+.hero-section {
+    background-image: url(images/donation9.jpg);
+    box-shadow: inset 0 0 0 2000px rgba(5, 5, 5, 0.74);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+    padding-top: 80px;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+    color: white;
+}
+
+.button {
+    background-color: tomato;
+    color: white;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.donate-section {
+    text-align: center;
+}
+
+.donate-section p {
+    color: #929292;
+    font-size: 18px;
+    font-weight: 300;
+    padding: 10px 200px;
+    line-height: 30px;
+}
+
+.flex-container {
+    display: flex;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+.width {
+    width: 20%;
+    background-color: #FAFAFA;
+    box-shadow: 1px 2px 3px gray;
+    border-radius: 10px;
+    text-align: center;
+    margin: 5px 20px;
+    padding: 20px;
+    color: #929292;
+}
+
+#orang {
+    border: tomato solid2 px;
+    color: tomato;
+}
+
+input[type=number] {
+    place-content: donate;
+    border: none;
+    border-bottom: 2px solid #929296;
+    padding: 30px 0px;
+    width: 80%;
+    text-align: center;
+    font-size: 20px;
+    color: #929296;
+}
+
+input[type=button] {
+    background-color: tomato;
+    color: white;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    margin-top: 30px;
+    font-size: 20px;
+    border-color: tomato;
+}
+
+.donation-plan {
+    text-align: center;
+}
+
+.food-width {
+    width: 35%;
+}
+
+.donation-plan-one {
+    display: flex;
+    margin: 40px 80px;
+}
+
+.donation-plan-one {
+    color: #666161;
+}
+
+#first {
+    background-color: #d8e2e3;
+    margin: 0px 10px;
+    padding: 50px 30px;
+    text-align: left;
+    border-radius: 10px;
+}
+
+#second {
+    background-color: #ffe0e0;
+    margin: 0px 10px;
+    padding: 50px 30px;
+    text-align: left;
+    border-radius: 10px;
+}
+
+#third {
+    background-color: #faebc3;
+    margin: 0px 10px;
+    padding: 50px 30px;
+    text-align: left;
+    border-radius: 10px;
+}
+
+.my-updates h1 {
+    text-align: center;
+}
+
+.my-updates p {
+    text-align: center;
+    padding: 10px 250px;
+}
+
+.emaill {
+    background-color: #fff1c4;
+    margin: 50px 30%;
+    padding: 80px 40px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.subscribe {
+    padding: 20px 40px;
+    background-color: #fc4949;
+    border-width: 0;
+    border-radius: 10px;
+    color: white;
+    font-size: 10px;
+}
+
+.email-one {
+    background-color: #d6cece;
+    padding: 20px 40px;
+    border-width: 0;
+    font-size: 10px;
+    border-radius: 10px;
+}
+
+.final-section {
+    text-align: center;
+    color: white;
+    background-color: gray;
+    padding: 30px;
+    font-size: 15px;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #FF5959;
+}
